@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: 79fdb5b2724484344920a7d54e08d2f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2672184563330716747
+    second: "Par\xE1sito (Dash)_0"
+  - first:
+      213: -555424485226019433
+    second: "Par\xE1sito (Dash)_1"
+  - first:
+      213: -5416225616501914579
+    second: "Par\xE1sito (Dash)_2"
+  - first:
+      213: 3449261480154938149
+    second: "Par\xE1sito (Dash)_3"
+  - first:
+      213: 7034979094189901233
+    second: "Par\xE1sito (Dash)_4"
+  - first:
+      213: -7316462365800076651
+    second: "Par\xE1sito (Dash)_5"
+  - first:
+      213: -2873682103437630281
+    second: "Par\xE1sito (Dash)_6"
+  - first:
+      213: -6696170171331755228
+    second: "Par\xE1sito (Dash)_7"
+  - first:
+      213: 4541483654400985146
+    second: "Par\xE1sito (Dash)_8"
+  - first:
+      213: -7086209924926049841
+    second: "Par\xE1sito (Dash)_9"
+  - first:
+      213: 2356263634328379201
+    second: "Par\xE1sito (Dash)_10"
+  - first:
+      213: 6974057070968895844
+    second: "Par\xE1sito (Dash)_11"
+  - first:
+      213: 7632557531873266784
+    second: "Par\xE1sito (Dash)_12"
+  - first:
+      213: -1305489716043237744
+    second: "Par\xE1sito (Dash)_13"
+  - first:
+      213: 7227336632391021025
+    second: "Par\xE1sito (Dash)_14"
+  - first:
+      213: 2045994952297200561
+    second: "Par\xE1sito (Dash)_15"
+  - first:
+      213: -488559413407113421
+    second: "Par\xE1sito (Dash)_16"
+  - first:
+      213: -5279814648354343830
+    second: "Par\xE1sito (Dash)_17"
+  - first:
+      213: -3040223607608507306
+    second: "Par\xE1sito (Dash)_18"
+  - first:
+      213: -7380586978199569662
+    second: "Par\xE1sito (Dash)_19"
+  - first:
+      213: -6550154889450191278
+    second: "Par\xE1sito (Dash)_20"
+  - first:
+      213: -7815765542670857927
+    second: "Par\xE1sito (Dash)_21"
+  - first:
+      213: 5709286866767311160
+    second: "Par\xE1sito (Dash)_22"
+  - first:
+      213: -2229812970966248232
+    second: "Par\xE1sito (Dash)_23"
+  - first:
+      213: 6206043553032463261
+    second: "Par\xE1sito (Dash)_24"
+  - first:
+      213: 3601342830977876028
+    second: "Par\xE1sito (Dash)_25"
+  - first:
+      213: 4873418810033796888
+    second: "Par\xE1sito (Dash)_26"
+  - first:
+      213: -5463678582144387712
+    second: "Par\xE1sito (Dash)_27"
+  - first:
+      213: 6603079230542327017
+    second: "Par\xE1sito (Dash)_28"
+  - first:
+      213: 3638857780276075225
+    second: "Par\xE1sito (Dash)_29"
+  - first:
+      213: 8840440558456235989
+    second: "Par\xE1sito (Dash)_30"
+  - first:
+      213: 5222326593373875562
+    second: "Par\xE1sito (Dash)_31"
+  - first:
+      213: -4965513969146581353
+    second: "Par\xE1sito (Dash)_32"
+  - first:
+      213: 9164159229658176209
+    second: "Par\xE1sito (Dash)_33"
+  - first:
+      213: 3694211611273392142
+    second: "Par\xE1sito (Dash)_34"
+  - first:
+      213: -562730100629345385
+    second: "Par\xE1sito (Dash)_35"
+  - first:
+      213: 109469171870206311
+    second: "Par\xE1sito (Dash)_36"
+  - first:
+      213: 5229160694708876752
+    second: "Par\xE1sito (Dash)_37"
+  - first:
+      213: -1460183275983209559
+    second: "Par\xE1sito (Dash)_38"
+  - first:
+      213: -6077125280100195636
+    second: "Par\xE1sito (Dash)_39"
+  - first:
+      213: 1290134953750633833
+    second: "Par\xE1sito (Dash)_40"
+  - first:
+      213: 7504357396216969076
+    second: "Par\xE1sito (Dash)_41"
+  - first:
+      213: -4584374598895271251
+    second: "Par\xE1sito (Dash)_42"
+  - first:
+      213: 1273722532225737711
+    second: "Par\xE1sito (Dash)_43"
+  - first:
+      213: 199287344156374460
+    second: "Par\xE1sito (Dash)_44"
+  - first:
+      213: 5769434651485951407
+    second: "Par\xE1sito (Dash)_45"
+  - first:
+      213: 1137754925605358084
+    second: "Par\xE1sito (Dash)_46"
+  - first:
+      213: 2458581140628703811
+    second: "Par\xE1sito (Dash)_47"
+  - first:
+      213: -6635573403279594527
+    second: "Par\xE1sito (Dash)_48"
+  - first:
+      213: 3324428418307771685
+    second: "Par\xE1sito (Dash)_49"
+  - first:
+      213: 6957432029326515176
+    second: "Par\xE1sito (Dash)_50"
+  - first:
+      213: 69179664639943332
+    second: "Par\xE1sito (Dash)_51"
+  - first:
+      213: 363537965064437334
+    second: "Par\xE1sito (Dash)_52"
+  - first:
+      213: -5677000453748832190
+    second: "Par\xE1sito (Dash)_53"
+  - first:
+      213: -95868416545805155
+    second: "Par\xE1sito (Dash)_54"
+  - first:
+      213: 4937831095546252356
+    second: "Par\xE1sito (Dash)_55"
+  - first:
+      213: 9223367687988813270
+    second: "Par\xE1sito (Dash)_56"
+  - first:
+      213: -5116765857812857032
+    second: "Par\xE1sito (Dash)_57"
+  - first:
+      213: 4337625274632964810
+    second: "Par\xE1sito (Dash)_58"
+  - first:
+      213: 4563892945101431331
+    second: "Par\xE1sito (Dash)_59"
+  - first:
+      213: -9082849209190724013
+    second: "Par\xE1sito (Dash)_60"
+  - first:
+      213: -5756968348814297847
+    second: "Par\xE1sito (Dash)_61"
+  - first:
+      213: -5499705541129086309
+    second: "Par\xE1sito (Dash)_62"
+  - first:
+      213: 3964050821309767443
+    second: "Par\xE1sito (Dash)_63"
+  - first:
+      213: -8161068034254222601
+    second: "Par\xE1sito (Dash)_64"
+  - first:
+      213: 5054587334398959157
+    second: "Par\xE1sito (Dash)_65"
+  - first:
+      213: 1936844607046888973
+    second: "Par\xE1sito (Dash)_66"
+  - first:
+      213: -5717203925421182024
+    second: "Par\xE1sito (Dash)_67"
+  - first:
+      213: 6789408522908774755
+    second: "Par\xE1sito (Dash)_68"
+  - first:
+      213: 4974099054603004835
+    second: "Par\xE1sito (Dash)_69"
+  - first:
+      213: 644282045078524401
+    second: "Par\xE1sito (Dash)_70"
+  - first:
+      213: -6430458356736487400
+    second: "Par\xE1sito (Dash)_71"
+  - first:
+      213: -8261642377594428167
+    second: "Par\xE1sito (Dash)_72"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Par\xE1sito (Dash)_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 224
+        height: 224
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.8834577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b441c97d3b1851520800000000000000
+      internalID: 2672184563330716747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Dash)_1"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 672
+        width: 224
+        height: 224
+      alignment: 9
+      pivot: {x: 0.50551444, y: 0.8110289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7958c8a9f5cba48f0800000000000000
+      internalID: -555424485226019433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Dash)_2"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 672
+        width: 224
+        height: 224
+      alignment: 9
+      pivot: {x: 0.51654273, y: 0.5110288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2448098f73b5d4b0800000000000000
+      internalID: -5416225616501914579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Dash)_3"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 224
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bb21e8a0d3edf20800000000000000
+      internalID: 3449261480154938149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Dash)_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 224
+        height: 224
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.19448593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b50d77963441a160800000000000000
+      internalID: 7034979094189901233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Dash)_5"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 448
+        width: 224
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3385999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ae8f91e34b67a90800000000000000
+      internalID: -7316462365800076651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Dash)_6"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 224
+        height: 224
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48308536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4e3333a51ae18d0800000000000000
+      internalID: -2873682103437630281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Dash)_7"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 448
+        width: 224
+        height: 224
+      alignment: 9
+      pivot: {x: 0.49448612, y: 0.6110292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423443ef4bc6213a0800000000000000
+      internalID: -6696170171331755228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Dash)_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 224
+        height: 224
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3840d56257960f30800000000000000
+      internalID: 4541483654400985146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Dash)_9"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 224
+        height: 224
+      alignment: 9
+      pivot: {x: 0.50551444, y: 0.89411366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc17fec1e99b8ad90800000000000000
+      internalID: -7086209924926049841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Dash)_10"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 224
+        height: 224
+      alignment: 9
+      pivot: {x: 0.8500004, y: 0.52757114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f50599a4123b020800000000000000
+      internalID: 2356263634328379201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Dash)_11"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 224
+        width: 224
+        height: 224
+      alignment: 9
+      pivot: {x: 0.48345757, y: 0.50551444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469f666b4f3d8c060800000000000000
+      internalID: 6974057070968895844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Dash)_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 224
+        height: 224
+      alignment: 9
+      pivot: {x: 0.111400686, y: 0.5165426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cc90fd2aa4ce960800000000000000
+      internalID: 7632557531873266784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Dash)_13"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 224
+        height: 224
+      alignment: 9
+      pivot: {x: 0.16102831, y: 0.5220568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09631512508f1ede0800000000000000
+      internalID: -1305489716043237744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Dash)_14"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1
+        width: 224
+        height: 224
+      alignment: 9
+      pivot: {x: 0.527571, y: 0.5165428}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1b5d50068ac4460800000000000000
+      internalID: 7227336632391021025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Dash)_15"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 224
+        height: 224
+      alignment: 9
+      pivot: {x: 0.8830858, y: 0.5165426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbbae7a195d46c10800000000000000
+      internalID: 2045994952297200561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

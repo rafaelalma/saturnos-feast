@@ -1,0 +1,2282 @@
+fileFormatVersion: 2
+guid: 333e5b7654cb0864fac0387d2412a89d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2950332477701476945
+    second: Boss 1 (Carga)300x300_0
+  - first:
+      213: -1649388508620054933
+    second: Boss 1 (Carga)300x300_1
+  - first:
+      213: -5754167875627429791
+    second: Boss 1 (Carga)300x300_2
+  - first:
+      213: -4634331545045345823
+    second: Boss 1 (Carga)300x300_3
+  - first:
+      213: 4518160227634121193
+    second: Boss 1 (Carga)300x300_4
+  - first:
+      213: -1185242893786765654
+    second: Boss 1 (Carga)300x300_5
+  - first:
+      213: -7479339978364340885
+    second: Boss 1 (Carga)300x300_6
+  - first:
+      213: 9039356577304623657
+    second: Boss 1 (Carga)300x300_7
+  - first:
+      213: 923851123774332159
+    second: Boss 1 (Carga)300x300_8
+  - first:
+      213: 3804592023277561873
+    second: Boss 1 (Carga)300x300_9
+  - first:
+      213: -8161619105139935708
+    second: Boss 1 (Carga)300x300_10
+  - first:
+      213: -3923876243372830795
+    second: Boss 1 (Carga)300x300_11
+  - first:
+      213: 8679133197501711838
+    second: Boss 1 (Carga)300x300_12
+  - first:
+      213: 538195771600814084
+    second: Boss 1 (Carga)300x300_13
+  - first:
+      213: -474394666194197518
+    second: Boss 1 (Carga)300x300_14
+  - first:
+      213: 2783945226199871528
+    second: Boss 1 (Carga)300x300_15
+  - first:
+      213: 1158126407239053865
+    second: Boss 1 (Carga)300x300_16
+  - first:
+      213: -761705332498634743
+    second: Boss 1 (Carga)300x300_17
+  - first:
+      213: -907840266144774794
+    second: Boss 1 (Carga)300x300_18
+  - first:
+      213: 4258485262702799604
+    second: Boss 1 (Carga)300x300_19
+  - first:
+      213: -3363590996832856370
+    second: Boss 1 (Carga)300x300_20
+  - first:
+      213: 6779359280738140420
+    second: Boss 1 (Carga)300x300_21
+  - first:
+      213: 5690187639250313754
+    second: Boss 1 (Carga)300x300_22
+  - first:
+      213: -1969582085917636692
+    second: Boss 1 (Carga)300x300_23
+  - first:
+      213: 1611139201038117020
+    second: Boss 1 (Carga)300x300_24
+  - first:
+      213: -2213742515552906413
+    second: Boss 1 (Carga)300x300_25
+  - first:
+      213: -6972349644236117761
+    second: Boss 1 (Carga)300x300_26
+  - first:
+      213: -8779793466833342627
+    second: Boss 1 (Carga)300x300_27
+  - first:
+      213: 982541432753093407
+    second: Boss 1 (Carga)300x300_28
+  - first:
+      213: -2362318023925389052
+    second: Boss 1 (Carga)300x300_29
+  - first:
+      213: -6359869403850890905
+    second: Boss 1 (Carga)300x300_30
+  - first:
+      213: -6382865511230461793
+    second: Boss 1 (Carga)300x300_31
+  - first:
+      213: -4448835177440901354
+    second: Boss 1 (Carga)300x300_32
+  - first:
+      213: -1648129289817170615
+    second: Boss 1 (Carga)300x300_33
+  - first:
+      213: -5796308929963093116
+    second: Boss 1 (Carga)300x300_34
+  - first:
+      213: -1756439307779220502
+    second: Boss 1 (Carga)300x300_35
+  - first:
+      213: -5254072793089077534
+    second: Boss 1 (Carga)300x300_36
+  - first:
+      213: -6954680367599077089
+    second: Boss 1 (Carga)300x300_37
+  - first:
+      213: 5629965679770515498
+    second: Boss 1 (Carga)300x300_38
+  - first:
+      213: 1197506446563245378
+    second: Boss 1 (Carga)300x300_39
+  - first:
+      213: 7900986296961835243
+    second: Boss 1 (Carga)300x300_40
+  - first:
+      213: -7942258925502751053
+    second: Boss 1 (Carga)300x300_41
+  - first:
+      213: -6833262223585672797
+    second: Boss 1 (Carga)300x300_42
+  - first:
+      213: -1914514669019168022
+    second: Boss 1 (Carga)300x300_43
+  - first:
+      213: -8719222438465974209
+    second: Boss 1 (Carga)300x300_44
+  - first:
+      213: -5778119196984972252
+    second: Boss 1 (Carga)300x300_45
+  - first:
+      213: -7968507910189357771
+    second: Boss 1 (Carga)300x300_46
+  - first:
+      213: -2477599361212685687
+    second: Boss 1 (Carga)300x300_47
+  - first:
+      213: -1632832681591318137
+    second: Boss 1 (Carga)300x300_48
+  - first:
+      213: -8590027981130443755
+    second: Boss 1 (Carga)300x300_49
+  - first:
+      213: -1763091907212467201
+    second: Boss 1 (Carga)300x300_50
+  - first:
+      213: 2486300235248256762
+    second: Boss 1 (Carga)300x300_51
+  - first:
+      213: 7920058679751485280
+    second: Boss 1 (Carga)300x300_52
+  - first:
+      213: -6840410019911272666
+    second: Boss 1 (Carga)300x300_53
+  - first:
+      213: -7503475987935369839
+    second: Boss 1 (Carga)300x300_54
+  - first:
+      213: 595305352323137970
+    second: Boss 1 (Carga)300x300_55
+  - first:
+      213: -8474109654017997824
+    second: Boss 1 (Carga)300x300_56
+  - first:
+      213: 4922671860560632049
+    second: Boss 1 (Carga)300x300_57
+  - first:
+      213: 1669205777186207991
+    second: Boss 1 (Carga)300x300_58
+  - first:
+      213: 6158080914802674024
+    second: Boss 1 (Carga)300x300_59
+  - first:
+      213: 2535613292571271228
+    second: Boss 1 (Carga)300x300_60
+  - first:
+      213: -3390726921801268444
+    second: Boss 1 (Carga)300x300_61
+  - first:
+      213: -4138044455701079996
+    second: Boss 1 (Carga)300x300_62
+  - first:
+      213: 4081003358401187506
+    second: Boss 1 (Carga)300x300_63
+  - first:
+      213: -5243530994545035793
+    second: Boss 1 (Carga)300x300_64
+  - first:
+      213: -1280807168419415044
+    second: Boss 1 (Carga)300x300_65
+  - first:
+      213: 5098571292172922461
+    second: Boss 1 (Carga)300x300_66
+  - first:
+      213: 1087447696298079426
+    second: Boss 1 (Carga)300x300_67
+  - first:
+      213: 6345819777759560152
+    second: Boss 1 (Carga)300x300_68
+  - first:
+      213: 3624713549977843258
+    second: Boss 1 (Carga)300x300_69
+  - first:
+      213: 7636692950837851634
+    second: Boss 1 (Carga)300x300_70
+  - first:
+      213: -8188630169386506290
+    second: Boss 1 (Carga)300x300_71
+  - first:
+      213: 4587252359324266004
+    second: Boss 1 (Carga)300x300_72
+  - first:
+      213: 687262462594181582
+    second: Boss 1 (Carga)300x300_73
+  - first:
+      213: 6546394526156875969
+    second: Boss 1 (Carga)300x300_74
+  - first:
+      213: -5746369292687592962
+    second: Boss 1 (Carga)300x300_75
+  - first:
+      213: -7267026355709267816
+    second: Boss 1 (Carga)300x300_76
+  - first:
+      213: -1309449591090657391
+    second: Boss 1 (Carga)300x300_77
+  - first:
+      213: -1424927786700437993
+    second: Boss 1 (Carga)300x300_0
+  - first:
+      213: 7293251718901349225
+    second: Boss 1 (Carga)300x300_1
+  - first:
+      213: 4182226928113806435
+    second: Boss 1 (Carga)300x300_2
+  - first:
+      213: 3363310679767293934
+    second: Boss 1 (Carga)300x300_3
+  - first:
+      213: -859644880129007999
+    second: Boss 1 (Carga)300x300_4
+  - first:
+      213: -823654739872849671
+    second: Boss 1 (Carga)300x300_5
+  - first:
+      213: 3579731240884432002
+    second: Boss 1 (Carga)300x300_6
+  - first:
+      213: 1913735481707808387
+    second: Boss 1 (Carga)300x300_7
+  - first:
+      213: 3177073764463603813
+    second: Boss 1 (Carga)300x300_8
+  - first:
+      213: 3037906089771324540
+    second: Boss 1 (Carga)300x300_9
+  - first:
+      213: -9212783701223087804
+    second: Boss 1 (Carga)300x300_10
+  - first:
+      213: 5481378285333195389
+    second: Boss 1 (Carga)300x300_11
+  - first:
+      213: 550179647657822372
+    second: Boss 1 (Carga)300x300_12
+  - first:
+      213: 5589978085260899875
+    second: Boss 1 (Carga)300x300_13
+  - first:
+      213: 7212758567310551931
+    second: Boss 1 (Carga)300x300_14
+  - first:
+      213: -5294026494609314632
+    second: Boss 1 (Carga)300x300_15
+  - first:
+      213: 4951217121547948079
+    second: Boss 1 (Carga)300x300_16
+  - first:
+      213: 988511149400749510
+    second: Boss 1 (Carga)300x300_17
+  - first:
+      213: 8448007206656595713
+    second: Boss 1 (Carga)300x300_18
+  - first:
+      213: -1925372785090392553
+    second: Boss 1 (Carga)300x300_19
+  - first:
+      213: -4725136265119983635
+    second: Boss 1 (Carga)300x300_20
+  - first:
+      213: -1405618715189451412
+    second: Boss 1 (Carga)300x300_21
+  - first:
+      213: 1518803787899084323
+    second: Boss 1 (Carga)300x300_22
+  - first:
+      213: -8037147931223661541
+    second: Boss 1 (Carga)300x300_23
+  - first:
+      213: -6912105584063322593
+    second: Boss 1 (Carga)300x300_24
+  - first:
+      213: 8165677134362369505
+    second: Boss 1 (Carga)300x300_25
+  - first:
+      213: 5765363013604755692
+    second: Boss 1 (Carga)300x300_26
+  - first:
+      213: -4076632532469187167
+    second: Boss 1 (Carga)300x300_27
+  - first:
+      213: -7470273625272554860
+    second: Boss 1 (Carga)300x300_28
+  - first:
+      213: -265654217175607102
+    second: Boss 1 (Carga)300x300_29
+  - first:
+      213: -2063948807686640605
+    second: Boss 1 (Carga)300x300_30
+  - first:
+      213: 5062985019328195232
+    second: Boss 1 (Carga)300x300_31
+  - first:
+      213: 7655257050849821001
+    second: Boss 1 (Carga)300x300_32
+  - first:
+      213: -790630502861548779
+    second: Boss 1 (Carga)300x300_33
+  - first:
+      213: 6719944899313159814
+    second: Boss 1 (Carga)300x300_34
+  - first:
+      213: -7003757572088968746
+    second: Boss 1 (Carga)300x300_35
+  - first:
+      213: -2580990619226650610
+    second: Boss 1 (Carga)300x300_36
+  - first:
+      213: -1761195558161999843
+    second: Boss 1 (Carga)300x300_37
+  - first:
+      213: 867320567913147397
+    second: Boss 1 (Carga)300x300_38
+  - first:
+      213: -8039491265936199988
+    second: Boss 1 (Carga)300x300_39
+  - first:
+      213: -1232687251614591113
+    second: Boss 1 (Carga)300x300_40
+  - first:
+      213: 8102465038346389928
+    second: Boss 1 (Carga)300x300_41
+  - first:
+      213: -1495633598427289976
+    second: Boss 1 (Carga)300x300_42
+  - first:
+      213: -1959988167495806115
+    second: Boss 1 (Carga)300x300_43
+  - first:
+      213: -7106765917520453089
+    second: Boss 1 (Carga)300x300_44
+  - first:
+      213: -4338567673948667396
+    second: Boss 1 (Carga)300x300_45
+  - first:
+      213: -6934318312106356229
+    second: Boss 1 (Carga)300x300_46
+  - first:
+      213: 2071121292431360950
+    second: Boss 1 (Carga)300x300_47
+  - first:
+      213: -2831874820639774350
+    second: Boss 1 (Carga)300x300_48
+  - first:
+      213: 2847831209018520774
+    second: Boss 1 (Carga)300x300_49
+  - first:
+      213: 8340130849322435250
+    second: Boss 1 (Carga)300x300_50
+  - first:
+      213: -8912995520424346534
+    second: Boss 1 (Carga)300x300_51
+  - first:
+      213: -53312915222220279
+    second: Boss 1 (Carga)300x300_52
+  - first:
+      213: -1818915524571739264
+    second: Boss 1 (Carga)300x300_53
+  - first:
+      213: -1531905679881363336
+    second: Boss 1 (Carga)300x300_54
+  - first:
+      213: 1146273195836176549
+    second: Boss 1 (Carga)300x300_55
+  - first:
+      213: -1422778311196806460
+    second: Boss 1 (Carga)300x300_56
+  - first:
+      213: 8997139995685037271
+    second: Boss 1 (Carga)300x300_57
+  - first:
+      213: -6088998841178312954
+    second: Boss 1 (Carga)300x300_58
+  - first:
+      213: -2841772811985839988
+    second: Boss 1 (Carga)300x300_59
+  - first:
+      213: -8766229520848016969
+    second: Boss 1 (Carga)300x300_60
+  - first:
+      213: 3658257645058835375
+    second: Boss 1 (Carga)300x300_61
+  - first:
+      213: 459376543830824465
+    second: Boss 1 (Carga)300x300_62
+  - first:
+      213: 8806690608522815847
+    second: Boss 1 (Carga)300x300_63
+  - first:
+      213: -8668861738028812333
+    second: Boss 1 (Carga)300x300_64
+  - first:
+      213: 8417754460268732796
+    second: Boss 1 (Carga)300x300_65
+  - first:
+      213: -550573687571050716
+    second: Boss 1 (Carga)300x300_66
+  - first:
+      213: 1909015129226475105
+    second: Boss 1 (Carga)300x300_67
+  - first:
+      213: -4338254572985169800
+    second: Boss 1 (Carga)300x300_68
+  - first:
+      213: 3650871438637085012
+    second: Boss 1 (Carga)300x300_69
+  - first:
+      213: 8087070558097768618
+    second: Boss 1 (Carga)300x300_70
+  - first:
+      213: -497873847475587523
+    second: Boss 1 (Carga)300x300_71
+  - first:
+      213: 1022417270753293899
+    second: Boss 1 (Carga)300x300_72
+  - first:
+      213: -97850345138691079
+    second: Boss 1 (Carga)300x300_73
+  - first:
+      213: -755311647140468713
+    second: Boss 1 (Carga)300x300_74
+  - first:
+      213: 405474883502395692
+    second: Boss 1 (Carga)300x300_75
+  - first:
+      213: -3065800769180441356
+    second: Boss 1 (Carga)300x300_76
+  - first:
+      213: -2912334656712332769
+    second: Boss 1 (Carga)300x300_77
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.48665074, y: 0.36650798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71603234ab3a93ce0800000000000000
+      internalID: -1424927786700437993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5177991, y: 0.37095785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b3f9a0cc5d63560800000000000000
+      internalID: 7293251718901349225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.50444984, y: 0.37540773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ceb449b314a0a30800000000000000
+      internalID: 4182226928113806435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.50444984, y: 0.37540773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef9ec06e31ecae20800000000000000
+      internalID: 3363310679767293934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5000004, y: 0.38430744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e5dee398de114f0800000000000000
+      internalID: -859644880129007999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5078361, y: 0.3746273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0ef44c06ac194f0800000000000000
+      internalID: -823654739872849671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5000004, y: 0.40597007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ce84ce892cda130800000000000000
+      internalID: 3579731240884432002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.50000083, y: 0.39813396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386414df744fe8a10800000000000000
+      internalID: 1913735481707808387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2400
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.50000083, y: 0.41380614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560f01481cb371c20800000000000000
+      internalID: 3177073764463603813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5064363, y: 0.3584017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74d0dd3e7fc82a20800000000000000
+      internalID: 3037906089771324540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.3777108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441e610090e952080800000000000000
+      internalID: -9212783701223087804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39701903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a23d84284c11c40800000000000000
+      internalID: 5481378285333195389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_12
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5000004, y: 0.4034554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a84b4d7971a2a700800000000000000
+      internalID: 550179647657822372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.50643635, y: 0.40989175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326b13a9377939d40800000000000000
+      internalID: 5589978085260899875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b633fb3bdd81460800000000000000
+      internalID: 7212758567310551931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_15
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc2e4db3f6d786b0800000000000000
+      internalID: -5294026494609314632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_16
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2092b74db146b440800000000000000
+      internalID: 4951217121547948079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_17
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2100
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c57b8c27a5e7bd00800000000000000
+      internalID: 988511149400749510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107d4b48bc95d3570800000000000000
+      internalID: 8448007206656595713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e8b7c27a3b745e0800000000000000
+      internalID: -1925372785090392553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7153a0a91fc6eb0800000000000000
+      internalID: -4725136265119983635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_21
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65ed7fc93d3e7ce0800000000000000
+      internalID: -1405618715189451412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e1e358fffd31510800000000000000
+      internalID: 1518803787899084323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14e5280a80567090800000000000000
+      internalID: -8037147931223661541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_24
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1669ebd7944310a0800000000000000
+      internalID: -6912105584063322593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_25
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1edd2301710525170800000000000000
+      internalID: 8165677134362369505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_26
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8461b5d1fa20050800000000000000
+      internalID: 5765363013604755692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad7f568f44ec67c0800000000000000
+      internalID: -4076632532469187167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.4944037, y: 0.37128213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ae8ae87b1445890800000000000000
+      internalID: -7470273625272554860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.48880717, y: 0.37687826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8d920a5e4305cf0800000000000000
+      internalID: -265654217175607102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_30
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.4944039, y: 0.3880713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c2f33ae716b53e0800000000000000
+      internalID: -2063948807686640605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_31
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.47761434, y: 0.37687826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa6e2cdc06534640800000000000000
+      internalID: 5062985019328195232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_32
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.49440348, y: 0.39366782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941453c7abfec3a60800000000000000
+      internalID: 7655257050849821001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.49440348, y: 0.37128174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51359502fbd1705f0800000000000000
+      internalID: -790630502861548779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_34
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.50000083, y: 0.37159505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e42c9384a024d50800000000000000
+      internalID: 6719944899313159814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_35
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.49324217, y: 0.37159505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d94fae7897adce90800000000000000
+      internalID: -7003757572088968746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.49324182, y: 0.37835285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08416cd4ba7e2cd0800000000000000
+      internalID: -2580990619226650610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.49324188, y: 0.37159464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1812c798f9fe87e0800000000000000
+      internalID: -1761195558161999843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_38
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.48648375, y: 0.37159464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c6ad41677590c00800000000000000
+      internalID: 867320567913147397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.49324217, y: 0.37159464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce6407e94dfd6090800000000000000
+      internalID: -8039491265936199988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_40
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7771c58c97d94eee0800000000000000
+      internalID: -1232687251614591113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_41
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a988af060db17070800000000000000
+      internalID: 8102465038346389928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_42
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8862a9b9a217e3be0800000000000000
+      internalID: -1495633598427289976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_43
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5391786529bcc4e0800000000000000
+      internalID: -1959988167495806115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_44
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1227502d02bf5d90800000000000000
+      internalID: -7106765917520453089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf10c40ffaf4ac3c0800000000000000
+      internalID: -4338567673948667396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf11a671c3a54cf90800000000000000
+      internalID: -6934318312106356229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b38e1a97d91ebc10800000000000000
+      internalID: 2071121292431360950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_48
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279a463cad823b8d0800000000000000
+      internalID: -2831874820639774350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_49
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4f1d96567858720800000000000000
+      internalID: 2847831209018520774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_50
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2042ec1d81eb370800000000000000
+      internalID: 8340130849322435250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_51
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c75781ccdae4480800000000000000
+      internalID: -8912995520424346534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_52
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 900
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.47296792, y: 0.37835285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9023d32af28924ff0800000000000000
+      internalID: -53312915222220279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_53
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 900
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.52027506, y: 0.37159464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b4579a7f9e1c6e0800000000000000
+      internalID: -1818915524571739264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 600
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.45269278, y: 0.3851113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870a44986e39dbae0800000000000000
+      internalID: -1531905679881363336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_55
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.47972554, y: 0.39186952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8fd5df56168ef00800000000000000
+      internalID: 1146273195836176549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.45945108, y: 0.3851113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2fbf60aa6414ce0800000000000000
+      internalID: -1422778311196806460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_57
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.47972575, y: 0.3851113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4244d38234cdc70800000000000000
+      internalID: 8997139995685037271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_58
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.47296754, y: 0.39186952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f2dc990d78f7ba0800000000000000
+      internalID: -6088998841178312954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_59
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.47296712, y: 0.37159485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8898311faeff88d0800000000000000
+      internalID: -2841772811985839988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_60
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.48648357, y: 0.39186952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9af4e32b8185680800000000000000
+      internalID: -8766229520848016969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_61
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 600
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.47296792, y: 0.39862752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3c69622fdb4c230800000000000000
+      internalID: 3658257645058835375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_62
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 600
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.48648438, y: 0.40538573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116de216888006600800000000000000
+      internalID: 459376543830824465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.4864836, y: 0.39186952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76965c7d276a73a70800000000000000
+      internalID: 8806690608522815847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.47972554, y: 0.39862773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d731d9cd2402b780800000000000000
+      internalID: -8668861738028812333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_65
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.52027464, y: 0.40538594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7127ca151fd1d470800000000000000
+      internalID: 8417754460268732796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_66
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.4256604, y: 0.39862773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f86a1f528fb58f0800000000000000
+      internalID: -550573687571050716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_67
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5135164, y: 0.40538594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166f368452f2e7a10800000000000000
+      internalID: 1909015129226475105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_68
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5135164, y: 0.39186952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8784100737c6bc3c0800000000000000
+      internalID: -4338254572985169800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_69
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5202742, y: 0.40538594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4513594fa308aa230800000000000000
+      internalID: 3650871438637085012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_70
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.52027506, y: 0.39862815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa000f053db0b3070800000000000000
+      internalID: 8087070558097768618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_71
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 300
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5337915, y: 0.37835318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36b242af523719f0800000000000000
+      internalID: -497873847475587523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5202746, y: 0.39862746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46797b371b503e00800000000000000
+      internalID: 1022417270753293899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5135164, y: 0.39186928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3ebd821ad54aef0800000000000000
+      internalID: -97850345138691079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_74
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.52027464, y: 0.39862746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7182a790f089485f0800000000000000
+      internalID: -755311647140468713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_75
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5135164, y: 0.3851111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21d08c124980a500800000000000000
+      internalID: 405474883502395692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_76
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5135164, y: 0.39186928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f461e891761475d0800000000000000
+      internalID: -3065800769180441356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss 1 (Carga)300x300_77
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 300
+      alignment: 9
+      pivot: {x: 0.52027464, y: 0.39186928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a2a975f0f4597d0800000000000000
+      internalID: -2912334656712332769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

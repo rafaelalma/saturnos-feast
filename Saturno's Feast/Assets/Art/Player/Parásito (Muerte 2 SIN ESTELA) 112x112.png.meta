@@ -1,0 +1,991 @@
+fileFormatVersion: 2
+guid: 7bd8db80f37f9814c96e23ac55c1e353
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6734254574333243418
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_0"
+  - first:
+      213: 6235555879754569692
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_1"
+  - first:
+      213: -4445329369931564739
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_2"
+  - first:
+      213: 1026761172025489767
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_3"
+  - first:
+      213: -964053381708432755
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_4"
+  - first:
+      213: 1563660558796923946
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_5"
+  - first:
+      213: 4463475580428153646
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_6"
+  - first:
+      213: -6552886905399279099
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_7"
+  - first:
+      213: -415694810584254168
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_8"
+  - first:
+      213: 5170247365966467615
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_9"
+  - first:
+      213: -5524792884321997650
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_10"
+  - first:
+      213: 5615045286740978320
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_11"
+  - first:
+      213: 3415183606969180320
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_12"
+  - first:
+      213: -3321498980803164508
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_13"
+  - first:
+      213: 2370810050082075503
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_14"
+  - first:
+      213: -8643396545833996843
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_15"
+  - first:
+      213: -5572744898727260455
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_16"
+  - first:
+      213: 5746174913322459114
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_17"
+  - first:
+      213: -909134153856846212
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_18"
+  - first:
+      213: -4471102059702830118
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_19"
+  - first:
+      213: -1009550856330654222
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_20"
+  - first:
+      213: -2677713451026179132
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_21"
+  - first:
+      213: -7041511142473609543
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_22"
+  - first:
+      213: -7798378283105860208
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_23"
+  - first:
+      213: 5185839485305341630
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_24"
+  - first:
+      213: 1453881399197969739
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_25"
+  - first:
+      213: 7474432791848237409
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_26"
+  - first:
+      213: -2341328018532600187
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_27"
+  - first:
+      213: -1444385752259040152
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_28"
+  - first:
+      213: -3543148116502731562
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_29"
+  - first:
+      213: -5468633511745806601
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_30"
+  - first:
+      213: -4340137814672344922
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_31"
+  - first:
+      213: -3485038065283352081
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_32"
+  - first:
+      213: 7468608756554717731
+    second: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_33"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10be221bd0e47d50800000000000000
+      internalID: 6734254574333243418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_1"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 672
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd79ed50905298650800000000000000
+      internalID: 6235555879754569692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_2"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 672
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d393e9b8d740f42c0800000000000000
+      internalID: -4445329369931564739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_3"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7693ebf88d9cf3e00800000000000000
+      internalID: 1026761172025489767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_4"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a31ce9e8efe92f0800000000000000
+      internalID: -964053381708432755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_5"
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 672
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24216c5efc33b510800000000000000
+      internalID: 1563660558796923946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23fc03546371fd30800000000000000
+      internalID: 4463475580428153646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_7"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 560
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5020e5604187f05a0800000000000000
+      internalID: -6552886905399279099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_8"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 560
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829f620b5c72b3af0800000000000000
+      internalID: -415694810584254168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_9"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 560
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f129451169860c740800000000000000
+      internalID: 5170247365966467615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_10"
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 560
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaca160b42ef353b0800000000000000
+      internalID: -5524792884321997650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_11"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a6de140f5aced40800000000000000
+      internalID: 5615045286740978320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_12"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 448
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0a228656b256f20800000000000000
+      internalID: 3415183606969180320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_13"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6c767664aa7e1d0800000000000000
+      internalID: -3321498980803164508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_14"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 448
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f637111fd2fc6e020800000000000000
+      internalID: 2370810050082075503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_15"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dde9b0e2ac7c0880800000000000000
+      internalID: -8643396545833996843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_16"
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 448
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9decd7f4a02a9a2b0800000000000000
+      internalID: -5572744898727260455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_17"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef98dd93a38ebf40800000000000000
+      internalID: 5746174913322459114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_18"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76ff2acd4b1263f0800000000000000
+      internalID: -909134153856846212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_19"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb35e89d5473f1c0800000000000000
+      internalID: -4471102059702830118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_20"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 336
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd48b158da5df1f0800000000000000
+      internalID: -1009550856330654222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_21"
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 336
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb9c4dadc9d6dad0800000000000000
+      internalID: -2677713451026179132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_22"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bec7e66ce6874e90800000000000000
+      internalID: -7041511142473609543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_23"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095ca53e44896c390800000000000000
+      internalID: -7798378283105860208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_24"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6c1df398dc7f740800000000000000
+      internalID: 5185839485305341630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_25"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d2eb8fd693d2410800000000000000
+      internalID: 1453881399197969739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_26"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16935afd5058ab760800000000000000
+      internalID: 7474432791848237409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_27"
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 224
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586f1b0729ee18fd0800000000000000
+      internalID: -2341328018532600187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_28"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ce6fd9fc284fbe0800000000000000
+      internalID: -1444385752259040152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_29"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4a2497f8534dec0800000000000000
+      internalID: -3543148116502731562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_30"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe189d8bc28b14b0800000000000000
+      internalID: -5468633511745806601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_31"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8f63017abb4c3c0800000000000000
+      internalID: -4340137814672344922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_32"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 112
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9321a1858a2afc0800000000000000
+      internalID: -3485038065283352081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Par\xE1sito (Muerte 2 SIN ESTELA) 112x112_33"
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 112
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ad0dcf714d5a760800000000000000
+      internalID: 7468608756554717731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
